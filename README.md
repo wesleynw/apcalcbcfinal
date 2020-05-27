@@ -16,3 +16,8 @@ Here is what the program shows when filling that space.
 ![gallery](Figure_6.png)
 ![gallery](Figure_7.png)
 ![gallery](Figure_8.png)
+![gallery](Figure_9.png)
+![gallery](Figure_10.png)
+![gallery](Figure_11.png)
+![gallery](Figure_12.png)
+
